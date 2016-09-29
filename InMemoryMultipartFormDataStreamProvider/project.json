@@ -1,0 +1,25 @@
+﻿{
+    "version": "1.0.0-*",
+
+    "authors": [ "Kirin Challa" ],
+
+    "dependencies": {
+        "Microsoft.AspNet.WebApi.Core": "5.2.3"
+    },
+
+    "frameworks": {
+        "net45": {}
+    },
+
+    "packOptions": {
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/legalcode",
+        "owners": [ "Russell Day" ],
+        "summary": "Kirin Challa's InMemoryMultipartFormDataStreamProvider implementation, ungraciously appropriated from http://stackoverflow.com/a/17073113/1241562",
+        "releaseNotes": "Initial release, verbatim from http://stackoverflow.com/a/17073113/1241562",
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/russdaygh/WebApiInMemoryMultipartFormDataStreamProvider"
+        },
+        "tags": ["webapi", "multipart", "streamprovider"]
+    }
+}
