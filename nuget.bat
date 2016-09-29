@@ -1,2 +1,2 @@
 dotnet pack InMemoryMultipartFormDataStreamProvider --configuration Release
-%LOCALAPPDATA%\NuGet\NuGet.exe push InMemoryMultipartFormDataStreamProvider\bin\Release\InMemoryMultipartFormDataStreamProvider.1.0.0.nupkg -Source https://www.nuget.org/api/v2/package
+%LOCALAPPDATA%\NuGet\NuGet.exe push InMemoryMultipartFormDataStreamProvider\bin\Release\InMemoryMultipartFormDataStreamProvider.1.0.1.nupkg -Source https://www.nuget.org/api/v2/package
