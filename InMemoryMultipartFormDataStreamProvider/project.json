@@ -1,5 +1,5 @@
 ﻿{
-    "version": "1.0.0-*",
+    "version": "1.0.1",
 
     "authors": [ "Kirin Challa" ],
 
@@ -15,7 +15,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/legalcode",
         "owners": [ "Russell Day" ],
         "summary": "Kirin Challa's InMemoryMultipartFormDataStreamProvider implementation, ungraciously appropriated from http://stackoverflow.com/a/17073113/1241562",
-        "releaseNotes": "Initial release, verbatim from http://stackoverflow.com/a/17073113/1241562",
+        "releaseNotes": "Changed namespace the provider sits in to System.Net.Http",
         "repository": {
             "type": "git",
             "url": "https://github.com/russdaygh/WebApiInMemoryMultipartFormDataStreamProvider"
