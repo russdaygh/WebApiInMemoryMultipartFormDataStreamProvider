@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Collections.Specialized;
 using System.IO;
-using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 
-namespace InMemoryMultipartFormDataStreamProvider
+namespace System.Net.Http
 {
     public class InMemoryMultipartFormDataStreamProvider : MultipartStreamProvider
     {
